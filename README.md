@@ -44,8 +44,7 @@ ar rcs libmy.a _putchar.o _puts.o _strlen.o
 gcc main.c -L. -lmy -o test
 ./test
 
-Usage
-
+Usage:
 Include main.h in your programs to access the functions from the static library
 
 
